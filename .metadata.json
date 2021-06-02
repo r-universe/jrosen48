@@ -1,5 +1,9 @@
 [
   {
+    "package": "konfound",
+    "oncran": true
+  },
+  {
     "package": "prcr",
     "oncran": true
   }
